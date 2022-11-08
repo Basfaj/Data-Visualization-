@@ -1,6 +1,6 @@
 # Data-Visualization-
 ## Descriptive analysis 
-This study evaluated the perception of the farmers in communities neighbouring Old Oyo National 
+This project evaluated the perception of the farmers in communities neighbouring Old Oyo National 
 Park (OONP) on their current agricultural practicing using a multi-stage random sample technique. 
 Data on demographic characteristics, perceptions levels and 
 descriptive statistics on Farmer’s Agricultural Practices and Farming System was randomly collected from 220 

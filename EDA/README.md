@@ -7,4 +7,4 @@ descriptive statistics on Farmer’s Agricultural Practices and Farming System w
 respondents within 3km2 neighboring OONP, via a well-structured questionnaire and subjected into descriptive analysis.
 mainly the frequency distribution and percentage of the respondent socio-economic characteristic was determined
 ## Data Visualization
-different type of charts/plots was visualized with in this project.
+different type of charts/plots was visualized in this project.
